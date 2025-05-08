@@ -62,7 +62,7 @@ CESAR School
    ```
 
 > ⚠️ Certifique-se de que você está com o terminal em modo compatível com `ncurses` e que o terminal suporta caracteres ASCII.
-
+```
 ---
 
 ## 🎮 Sobre o Jogo
