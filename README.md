@@ -37,8 +37,8 @@ CESAR School
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/seu-usuario/c-car.git
+   cd c-car
 ````
 
 2. Baixe a CLI-lib:
@@ -50,13 +50,13 @@ CESAR School
 3. Compile o projeto:
 
    ```bash
-   gcc src/*.c -Iinclude -Icli-lib -o build/desvio -lncurses
+   gcc src/*.c -Iinclude -Icli-lib -o build/c-car -lncurses
    ```
 
 4. Execute o jogo:
 
    ```bash
-   ./build/desvio
+   ./build/c-car
    ```
 
 > ⚠️ Certifique-se de que você está com o terminal em modo compatível com `ncurses` e que o terminal suporta caracteres ASCII.
@@ -65,7 +65,7 @@ CESAR School
 
 ## 🎮 Sobre o Jogo
 
-**Desvio Radical** é um jogo em modo texto onde o jogador controla um carro que precisa **desviar de pedras** que caem do topo da tela. Com o passar do tempo, o jogo fica **mais rápido** e mais obstáculos aparecem. O objetivo é **sobreviver o máximo possível**, acumulando pontos.
+**C-CAR** é um jogo em modo texto onde o jogador controla um carro que precisa **desviar de pedras** que caem do topo da tela. Com o passar do tempo, o jogo fica **mais rápido** e mais obstáculos aparecem. O objetivo é **sobreviver o máximo possível**, acumulando pontos.
 
 ### 🎯 Regras:
 
@@ -119,5 +119,3 @@ Este projeto pode ser distribuído sob a licença MIT. (opcional)
 
 ---
 
-Se quiser, posso montar esse arquivo diretamente para você ou até criar o esqueleto do projeto. Quer que eu gere a estrutura do repositório e os arquivos iniciais?
-```
