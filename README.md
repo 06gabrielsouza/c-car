@@ -45,7 +45,7 @@ CESAR School
 
 2. Baixe a CLI-lib:
 
-   ```bash
+    ```bash
    git submodule add https://github.com/tgfb/cli-lib.git
    ```
 
