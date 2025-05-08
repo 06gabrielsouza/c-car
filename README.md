@@ -41,7 +41,7 @@ CESAR School
    ```bash
    git clone https://github.com/seu-usuario/c-car.git
    cd c-car
-````
+```
 
 2. Baixe a CLI-lib:
 
@@ -61,8 +61,8 @@ CESAR School
    ./build/c-car
    ```
 
-> ⚠️ Certifique-se de que você está com o terminal em modo compatível com `ncurses` e que o terminal suporta caracteres ASCII.
-```
+ ⚠️ Certifique-se de que você está com o terminal em modo compatível com `ncurses` e que o terminal suporta caracteres ASCII.
+
 ---
 
 ## 🎮 Sobre o Jogo
