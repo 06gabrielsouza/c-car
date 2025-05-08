@@ -63,7 +63,7 @@ CESAR School
 
 ---
 
-## 🎮 Sobre o Jogo
+##🎮 Sobre o Jogo
 
 **C-CAR** é um jogo em modo texto onde o jogador controla um carro que precisa **desviar de pedras** que caem do topo da tela. Com o passar do tempo, o jogo fica **mais rápido** e mais obstáculos aparecem. O objetivo é **sobreviver o máximo possível**, acumulando pontos.
 
